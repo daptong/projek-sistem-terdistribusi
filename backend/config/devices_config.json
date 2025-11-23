@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {"id": "lamp01", "type": "lamp", "name": "Living Room Lamp"},
+    {"id": "thermo01", "type": "thermostat", "name": "Main Thermostat"},
+    {"id": "camera_front", "type": "camera_front", "name": "Front Camera"},
+    {"id": "camera_back", "type": "camera_back", "name": "Back Camera"},
+    {"id": "camera_side", "type": "camera_side", "name": "Side Camera"},
+    {"id": "gate01", "type": "smart_gate", "name": "Main Gate", "open_token": "opentok-123"},
+    {"id": "tv01", "type": "tv", "name": "Living Room TV"},
+    {"id": "ac01", "type": "ac", "name": "Living Room AC"}
+  ],
+  "defaults": {
+    "heartbeat_interval": 30,
+    "status_timeout": 45
+  }
+}

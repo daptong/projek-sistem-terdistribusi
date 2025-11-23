@@ -1,0 +1,16 @@
+{
+  "broker": "localhost",
+  "port": 1883,
+  "username": "",
+  "password": "",
+  "use_tls": false,
+  "keepalive": 60,
+  "client_id": "home_backend_01",
+  "qos": 1,
+  "last_will": {
+    "topic": "home/backend/status",
+    "payload": "{\"status\":\"offline\"}",
+    "qos": 1,
+    "retain": true
+  }
+}
