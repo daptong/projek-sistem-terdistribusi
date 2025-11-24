@@ -1,5 +1,13 @@
 # Proyek Otomasi Rumah Pintar dengan MQTT
 
+---
+Anggota Kelompok:
+1. Alif Putra Roy - 256150100111011
+2. Aryo Bagus Kusumadewa Tutuko - 256150100111019
+3. Muhammad Daffa Firmansyah - 256150100111010 
+
+---
+
 ## Pendahuluan
 Proyek ini adalah sistem untuk membuat rumah menjadi **Rumah Pintar** menggunakan protokol komunikasi ringan bernama **MQTT (Message Queuing Telemetry Transport)**.
 
