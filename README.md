@@ -1,6 +1,6 @@
 # Proyek Otomasi Rumah Pintar dengan MQTT
 
-## Pendahuluam
+## Pendahuluan
 Proyek ini adalah sistem untuk membuat rumah menjadi **Rumah Pintar** menggunakan protokol komunikasi ringan bernama **MQTT (Message Queuing Telemetry Transport)**.
 
 Tujuan utamanya adalah memungkinkan pengguna untuk mengontrol dan memantau perangkat rumah dari jarak jauh, hanya melalui koneksi internet.
